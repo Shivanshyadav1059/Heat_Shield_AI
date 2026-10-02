@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+joblib
+numpy
+
+streamlit
+pandas
+numpy
+rasterio
+scikit-learn
+joblib
+plotly
+Pillow
