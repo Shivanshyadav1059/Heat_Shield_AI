@@ -214,7 +214,7 @@ Optimizing Urban Heat Mitigation and Cooling Strategies using Artificial Intelli
 
 # 👨‍💻 Author
 
-Shubham Singh
+Shivansh Yadav
 
 B.Tech Computer Science Engineering
 
